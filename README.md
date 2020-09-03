@@ -1,4 +1,4 @@
-# XLR8 BOMB3R
+# XLR8 BOMB3R ⚡
 An Superfast SMS bomber for Linux And Termux !
 
 ## Disclaimer
