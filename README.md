@@ -11,6 +11,10 @@ Clone it by
 ```bash
 git clone https://github.com/anubhavanonymous/XLR8_BOMB3R
 ```
+Go to the Xlr8 Directory
+```bash
+cd XLR8_BOMB3R
+```
 Run it
 ```bash
 bash xlr8
