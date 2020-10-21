@@ -17,7 +17,7 @@ cd XLR8_BOMB3R
 ```
 Run it
 ```bash
-bash xlr8
+bash xlr8.sh
 ```
 
 ## Note
