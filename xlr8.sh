@@ -82,10 +82,10 @@ cd ..
 rm -rf XLR8_BOMB3R
 git clone https://github.com/anubhavanonymous/XLR8_BOMB3R
 cd XLR8_BOMB3R
-chmod +x xlr8
+chmod +x xlr8.sh
 figlet -c Script Updated !
 sleep 2
-bash xlr8
+bash xlr8.sh
 
 
 fi
