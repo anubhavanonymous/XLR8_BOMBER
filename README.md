@@ -23,4 +23,4 @@ bash xlr8.sh
 ## Note
 This bomber only works in India !!
 
-Enjoy ^_^ 
+Enjoy 🚬
