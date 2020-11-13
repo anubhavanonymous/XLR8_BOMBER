@@ -1,6 +1,6 @@
 #!/bin/bash
 #Coded by Anubhav Kashyap
-#Dont try to Steal it
+#Dont try to Steal it Bitch
 pkg install figlet
 apt-get install figlet
 
