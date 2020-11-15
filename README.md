@@ -4,7 +4,7 @@
 
 ## Disclaimer
 This tool is for educational purposes only !
-Don't use this to take revenge
+_Don't use this to take revenge_
 I will not be responsible for any misuse⚠️
 
 ## Usage
