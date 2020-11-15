@@ -4,12 +4,11 @@
 clear
 echo ""
 echo ""
-printf  "                \e[1;33m|G|e|a|r|i|n|g| |u|p| |t|h|e| |B|o|m|b|e|r|"
+printf  "                \e[1;33m|C|O|N|N|E|C|T|I|N|G|"
 echo ""
 echo ""
 echo ""
 apt install figlet -y
-gem install lolcat -y
 
 banner() {
 
