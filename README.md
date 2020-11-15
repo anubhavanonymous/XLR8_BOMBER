@@ -4,8 +4,8 @@
 
 ## Disclaimer
 This tool is for educational purposes only !
-_Don't use this to take revenge_
-  *I will not be responsible for any misuse*
+_Don't use this to take revenge_<br />
+*I will not be responsible for any misuse*
 
 ## Usage
 Clone it by
