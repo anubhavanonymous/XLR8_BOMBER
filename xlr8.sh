@@ -8,9 +8,9 @@ printf  "                \e[1;33m|G|e|a|r|i|n|g| |u|p| |t|h|e| |B|o|m|b|e|r|"
 echo ""
 echo ""
 echo ""
-apt install ruby
-apt install figlet
-gem install lolcat
+apt install ruby -y
+apt install figlet -y
+gem install lolcat -y
 
 banner() {
 
