@@ -3,7 +3,7 @@
 * `A Superfast SMS bomber for Linux And Termux !`
 
 ## Disclaimer
-This tool is for educational purposes only !
+*This tool is for educational purposes only !*
 _Don't use this to take revenge_<br />
 *I will not be responsible for any misuse*
 
