@@ -1,5 +1,5 @@
 # XLR8 BOMB3R :bomb:
-<img src="xlr8.jpg"><br>
+<img src="logo.jpg"><br>
 * `A Superfast SMS bomber for Linux And Termux !`
 
 ## Disclaimer
