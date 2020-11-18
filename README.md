@@ -10,11 +10,11 @@ _Don't use this to take revenge_<br />
 ## Usage
 Clone it by
 ```bash
-git clone https://github.com/anubhavanonymous/XLR8_BOMB3R
+git clone https://github.com/anubhavanonymous/XLR8_BOMBER
 ```
 Go to the Xlr8 Directory
 ```bash
-cd XLR8_BOMB3R
+cd XLR8_BOMBER
 ```
 Run it
 ```bash
