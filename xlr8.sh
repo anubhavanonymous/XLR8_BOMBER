@@ -112,9 +112,9 @@ echo -e "\e[1;34m Request Attempt Successful.."
 echo -e "\e[1;34m Updating Now..."
 sleep 4
 cd ..
-rm -rf XLR8_BOMB3R
-git clone https://github.com/anubhavanonymous/XLR8_BOMB3R
-cd XLR8_BOMB3R
+rm -rf XLR8_BOMBER
+git clone https://github.com/anubhavanonymous/XLR8_BOMBER
+cd XLR8_BOMBER
 chmod +x xlr8.sh
 figlet -c Script Updated !
 sleep 2
