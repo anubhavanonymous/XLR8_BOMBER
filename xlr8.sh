@@ -25,8 +25,7 @@ echo ""
 
 
 menu(){
-clear
-banner
+echo ""
 printf "\e[1;92m[\e[0m xlr8\e[1;92m ]\e[0m \e[1;93mEnter target  >>> \e[0m\n"
 read -p '---------------> ' num
 printf "\n"
