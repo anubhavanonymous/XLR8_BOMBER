@@ -7,8 +7,9 @@
 _Don't use this to take revenge_<br />
 *I will not be responsible for any misuse*
 
-## Usage
+## Usage<br />
 * `Make sure that you have installed git before git clone`<br />
+<br />
 Clone it by
 ```bash
 git clone https://github.com/anubhavanonymous/XLR8_BOMBER
