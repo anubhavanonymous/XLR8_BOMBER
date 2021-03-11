@@ -21,7 +21,7 @@ Just Run it
 bash xlr8.sh
 ```
 ## Version
-*`2.0`
+`2.0`
 
 ## Note
 * `This bomber only works in India !!`
