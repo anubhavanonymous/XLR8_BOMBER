@@ -112,6 +112,7 @@ fi
 if [ "$options" -eq "2" ];then
 clear
 apt install git -y
+echo -e "\e[92m "
 clear
 figlet -c -f slant Updating Script
 echo ""
