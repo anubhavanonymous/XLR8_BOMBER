@@ -8,6 +8,7 @@ _Don't use this to take revenge_<br />
 *I will not be responsible for any misuse*
 
 ## Usage
+* `Make sure that you have installed git before git clone`
 Clone it by
 ```bash
 git clone https://github.com/anubhavanonymous/XLR8_BOMBER
@@ -16,7 +17,7 @@ Go to the Xlr8 Directory
 ```bash
 cd XLR8_BOMBER
 ```
-Run it
+Just Run it
 ```bash
 bash xlr8.sh
 ```
