@@ -132,6 +132,9 @@ cd XLR8_BOMBER
 chmod +x xlr8.sh
 clear
 figlet -c -f slant Script Updated
+sleep 1
+echo ""
+echo -e "\e[91m Restarting XLR8 !
 sleep 2
 bash xlr8.sh
 fi
