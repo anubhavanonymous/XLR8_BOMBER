@@ -1,6 +1,8 @@
 #!/bin/bash
 #Coded by Anubhav Kashyap
 #Dont try to Steal it Bitch
+apt install wget -y
+clear
 just() {
 clear
 echo ""
