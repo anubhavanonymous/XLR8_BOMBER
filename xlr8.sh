@@ -113,20 +113,24 @@ if [ "$options" -eq "2" ];then
 clear
 apt install git -y
 clear
-figlet -c Updating Script !
+figlet -c -f slant Updating Script !
 echo ""
 echo ""
-echo -e "\e[1;34m Requesting Update From Source..."
-echo -e "\e[1;34m Request Attempt Successful.."
-echo -e "\e[1;34m Updating Now..."
-sleep 2
+echo -e "\e[92m[\e[91m~\e[92m]\e[93m Requesting Update From Source...\e[93m"
+sleep 1
+echo ""
+echo -e "\e[92m[\e[91m~\e[92m]\e[93m Request Attempt Successful..\e[93m"
+sleep 1
+echo ""
+echo -e "\e[92m[\e[91m~\e[92m]\e[93m Updating Now...\e[93m"
+sleep 1
 cd ..
 rm -rf XLR8_BOMBER
 git clone https://github.com/anubhavanonymous/XLR8_BOMBER
 cd XLR8_BOMBER
 chmod +x xlr8.sh
 clear
-figlet -c Script Updated !
+figlet -c -f slant Script Updated !!
 sleep 2
 bash xlr8.sh
 fi
