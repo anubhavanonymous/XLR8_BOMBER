@@ -67,6 +67,10 @@ echo ""
 echo ""
 printf "\n"
 printf "Press ctrl+c to quit ! \n"
+echo ""
+echo -e "\e[92m[\e[91m~\e[92m]\e[93m Else it will automatically stop after 5 min\e[93m"
+echo ""
+echo -e "\e[92m[\e[91m~\e[92m]\e[93m After sending 250 msgs and 50 calls !!\e[93m"
 while read a; do
     echo ${a//€shushhi/$targett}
 done < headapis > headapis.t
