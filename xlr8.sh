@@ -148,7 +148,9 @@ bash xlr8.sh
 fi
 
 if [ "$options" -eq "3" ];then
+        echo ""
         echo -e "\e[92m[\e[91m~\e[92m]\e[93m Thanks for Using XLR8 !\e[93m"
+        echo ""
         exit
         exit
         exit
