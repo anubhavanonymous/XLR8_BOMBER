@@ -71,6 +71,7 @@ echo ""
 echo -e "\e[92m[\e[91m~\e[92m]\e[93m Else it will automatically stop after 5 min\e[93m"
 echo ""
 echo -e "\e[92m[\e[91m~\e[92m]\e[93m After sending 250 msgs and 50 calls !!\e[93m"
+echo ""
 while read a; do
     echo ${a//€shushhi/$targett}
 done < headapis > headapis.t
@@ -141,7 +142,7 @@ clear
 figlet -c -f slant Script Updated
 sleep 1
 echo ""
-echo -e "\e[91m Restarting XLR8 !"
+echo -e "\e[92m[\e[91m~\e[92m]\e[91m Restarting XLR8 !\e[93m"
 sleep 2
 bash xlr8.sh
 fi
