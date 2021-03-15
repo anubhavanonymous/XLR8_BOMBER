@@ -8,6 +8,7 @@ _Don't use this to take revenge_<br />
 *I will not be responsible for any misuse*
 
 ## Usage
+Install wget first
 ```bash
 apt install wget 
 ```
