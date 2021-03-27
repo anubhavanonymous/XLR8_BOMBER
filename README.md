@@ -27,3 +27,7 @@ bash xlr8.sh
 * `This bomber only works in India !!`
 
 * `Enjoy 🔥`
+
+##Screenshot(Termux)
+
+<img src="IMG_20210327_101534.jpg><br>
