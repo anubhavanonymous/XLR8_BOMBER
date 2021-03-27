@@ -23,6 +23,11 @@ bash xlr8.sh
 ## Version
 * `2.0`
 
+## Features
+* `Sms and Call Bombing`
+
+* `Send anonymous msg`
+
 ## Note
 * `This bomber only works in India !!`
 
