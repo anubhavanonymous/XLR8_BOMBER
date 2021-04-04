@@ -50,4 +50,4 @@ bash xlr8.sh
 
 ## Screenshot (Termux)
 
-<img src="IMG_20210327_101534.jpg"><br>
+<img src="IMG_20210404_102538.jpg"><br>
