@@ -7,6 +7,22 @@
 _Don't use this to take revenge_<br />
 *I will not be responsible for any misuse*
 
+## About
+* `Unlimited Usage !`
+* `Supports newest Android also`
+* `Working Apis`
+* `No missing SMS issues, all messages will be sent.`
+* `Working with all Operators/Carriers`
+
+## Tested On :
+<ul>
+  <li>Kali Linux</li>
+  <li>Termux</li>
+  <li>MacOS</li>
+  <li>Ubuntu</li>
+  <li>Parrot Sec OS</li>
+</ul>
+
 ## Usage
 Clone it by
 ```bash
