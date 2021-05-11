@@ -48,6 +48,9 @@ bash xlr8.sh
 ## Note
 * `This bomber only works in India !!`
 
+## Licence
+Apache 3.0 © Anubhav Kashyap
+
 
 ## Screenshot (Termux)
 
