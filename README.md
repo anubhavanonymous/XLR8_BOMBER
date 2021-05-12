@@ -10,6 +10,7 @@ _Don't use this to take revenge_<br />
 
 ## About
 * `Unlimited Usage !`
+* `Cross Platform`
 * `Supports newest Android also`
 * `Working Apis`
 * `No missing SMS issues, all messages will be sent.`
