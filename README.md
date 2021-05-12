@@ -19,9 +19,11 @@ _Don't use this to take revenge_<br />
 <ul>
   <li>Kali Linux</li>
   <li>Termux</li>
-  <li>MacOS</li>
   <li>Ubuntu</li>
   <li>Parrot Sec OS</li>
+  <li>Kali nethunter<li>
+  <li>Apline linux</li>
+  
 </ul>
 
 ## Usage
