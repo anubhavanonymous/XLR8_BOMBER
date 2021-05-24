@@ -1,6 +1,6 @@
 <h1 align="center">XLR8 BOMB3R 2.0
 <img src="logo.jpg"><br>
-<he align="left">..
+<h2 align="left">...
 * 💣 📱 💀<br />
 * `A Superfast SMS bomber for Linux And Termux !`
 
