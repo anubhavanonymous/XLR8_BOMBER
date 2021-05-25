@@ -1,4 +1,4 @@
-# Xlr8
+<h1 align="center">XLR8 BOMB3R 2.0
 <img src="logo.jpg"><br>
 
 💣 📱 💀<br />
