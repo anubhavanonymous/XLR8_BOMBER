@@ -30,7 +30,7 @@ _Don't use this to take revenge_<br />
   
 </ul>
 
-## TERMUX ISSUE:
+## Termux Issue:
 * `There is a problem occuring in termux`
 * `The official repos of termux are down`
 * `due to high traffic!`
