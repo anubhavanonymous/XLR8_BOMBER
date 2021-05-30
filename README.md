@@ -32,7 +32,7 @@ _Don't use this to take revenge_<br />
 
 ## Termux Issue:
 * `There is a problem occuring in termux`
-* `The official repos of termux are down`
+* `The official repositories of termux are down`
 * `due to high traffic!`
 <br>
 
