@@ -40,7 +40,6 @@ DON'T WORRY
 * `We have a solution for that !`
 <br>
 Just paste the command below in termux ♡
-
 ```bash
 sed -i '1s/^/#/' /data/data/com.termux/files/usr/etc/apt/sources.list.d/game.list && sed -i '1s/^/#/' /data/data/com.termux/files/usr/etc/apt/sources.list.d/science.list
 ```
