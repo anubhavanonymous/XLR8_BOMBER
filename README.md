@@ -30,21 +30,26 @@ _Don't use this to take revenge_<br />
   
 </ul>
 
-## ISSUE:
-* `There is a issue occuring in termux`
+## TERMUX ISSUE:
+* `There is a problem occuring in termux`
 * `The official repos of termux are down`
 * `due to high traffic!`
 <br>
 
 DON'T WORRY
-<br>
 We have a solution for that !
-<br>
 Just paste the command below in termux ♡
 
 ```bash
 sed -i '1s/^/#/' /data/data/com.termux/files/usr/etc/apt/sources.list.d/game.list && sed -i '1s/^/#/' /data/data/com.termux/files/usr/etc/apt/sources.list.d/science.list
 ```
+
+and then.. you can update the packages :-
+```bash
+pkg up -y
+```
+If it stuck just press enter-enter !!
+
 ## Usage
 Clone it by
 ```bash
