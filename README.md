@@ -36,7 +36,8 @@ _Don't use this to take revenge_<br />
 * `due to high traffic!`
 <br>
 
-DON'T WORRY<br>
+DON'T WORRY
+<br>
 We have a solution for that !
 <br>
 Just paste the command below in termux ♡
