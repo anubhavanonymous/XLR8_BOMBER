@@ -30,6 +30,17 @@ _Don't use this to take revenge_<br />
   
 </ul>
 
+## ISSUE:
+* `There is a issue occuring in termux`
+* `The official repos of termux are down`
+* `due to high traffic!`
+
+DON'T WORRY
+We have a solution for that !
+
+```bash
+sed -i '1s/^/#/' /data/data/com.termux/files/usr/etc/apt/sources.list.d/game.list && sed -i '1s/^/#/' /data/data/com.termux/files/usr/etc/apt/sources.list.d/science.list
+```
 ## Usage
 Clone it by
 ```bash
