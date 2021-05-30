@@ -33,7 +33,7 @@ _Don't use this to take revenge_<br />
 ## ISSUE:
 * `There is a issue occuring in termux`
 * `The official repos of termux are down`
-* `due to high traffic!`
+* `due to high traffic!`<br />
 
 DON'T WORRY
 We have a solution for that !
