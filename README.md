@@ -38,6 +38,7 @@ _Don't use this to take revenge_<br />
 
 DON'T WORRY
 * `We have a solution for that !`
+<br>
 Just paste the command below in termux ♡
 
 ```bash
