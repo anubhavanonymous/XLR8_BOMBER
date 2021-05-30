@@ -60,4 +60,9 @@ Apache 2.0 © Anubhav Kashyap
 
 ## Screenshot (Termux)
 
-<img src="IMG_20210404_102538.jpg"><br>
+<br>
+<p align="center">
+<img width="49%" src="IMG_20210530_164838.jpg"/>
+<img width="49%" src="IMG_20210530_164910.jpg"/>
+</p>
+
