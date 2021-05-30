@@ -46,7 +46,7 @@ Just paste the command below in termux ♡
 sed -i '1s/^/#/' /data/data/com.termux/files/usr/etc/apt/sources.list.d/game.list && sed -i '1s/^/#/' /data/data/com.termux/files/usr/etc/apt/sources.list.d/science.list
 ```
 
-and then.. you can update the packages :-
+And then.. you can update the packages :-
 ```bash
 pkg up -y
 ```
