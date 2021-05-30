@@ -33,9 +33,10 @@ _Don't use this to take revenge_<br />
 ## ISSUE:
 * `There is a issue occuring in termux`
 * `The official repos of termux are down`
-* `due to high traffic!`<br />
+* `due to high traffic!`
+<br>
 
-DON'T WORRY
+DON'T WORRY<br>
 We have a solution for that !
 
 ```bash
