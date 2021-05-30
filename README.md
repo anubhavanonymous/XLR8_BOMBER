@@ -37,7 +37,7 @@ _Don't use this to take revenge_<br />
 <br>
 
 DON'T WORRY
-We have a solution for that !
+* `We have a solution for that !`
 Just paste the command below in termux ♡
 
 ```bash
