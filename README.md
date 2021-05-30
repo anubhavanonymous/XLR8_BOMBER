@@ -58,7 +58,7 @@ bash xlr8.sh
 Apache 2.0 © Anubhav Kashyap
 
 
-## Screenshot (Termux)
+## Screenshots (Termux)
 
 <br>
 <p align="center">
