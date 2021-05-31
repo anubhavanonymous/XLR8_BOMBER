@@ -84,8 +84,11 @@ Apache 2.0 © Anubhav Kashyap
 
 <br>
 <p align="center">
-<img width="32%" src="IMG_20210530_164838.jpg"/>
-<img width="32%" src="IMG_20210530_164910.jpg"/>
-<img width="32%" src="IMG_20210530_165506.jpg"/>
+<img width="48%" src="IMG_20210530_164838.jpg"/>
+<img width="48%" src="IMG_20210530_164910.jpg"/>
 </p>
-
+<br>
+<p align="centre">
+<img width="48%" src="IMG_20210530_165509.jpg"/>
+<img width="48%" src="IMG_20210530_165506.jpg"/>
+</p>
