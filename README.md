@@ -84,10 +84,10 @@ Apache 2.0 © Anubhav Kashyap
 
 <br>
 <p align="center">
-<img width="48%" src="IMG_20210531_101730.jpg"/>
-<img width="48%" src="IMG_20210530_164910.jpg"/>
+<img width="48%" src="screenshots/IMG_20210531_101730.jpg"/>
+<img width="48%" src="screenshots/IMG_20210530_164910.jpg"/>
 </p>
 <p align="centre">
-<img width="48%" src="IMG_20210530_165509.jpg"/>
-<img width="48%" src="IMG_20210530_165506.jpg"/>
+<img width="48%" src="screenshots/IMG_20210530_165509.jpg"/>
+<img width="48%" src="screenshots/IMG_20210530_165506.jpg"/>
 </p>
