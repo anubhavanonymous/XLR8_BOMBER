@@ -1,4 +1,4 @@
-<h1 align="center">XLR8 BOMB3R 2.1
+<h1 align="center">XLR8 BOMBER 2.1
 <img src="logo.jpg"><br>
 </h1>
 
