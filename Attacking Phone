@@ -1,0 +1,4 @@
+apt update && apt upgrade -y
+pkg install git 
+pip install requests
+pip install mechanize
