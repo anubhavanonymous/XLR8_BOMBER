@@ -32,6 +32,7 @@ _Don't use this to take revenge_<br />
 
 ## Termux Issue:
 * `There is a problem occuring in termux`
+* `while updating the packages`
 * `The official repositories of termux are down`
 * `due to high traffic!`
 <br>
@@ -46,15 +47,11 @@ Just paste the command below in termux ♡
 sed -i '1s/^/#/' /data/data/com.termux/files/usr/etc/apt/sources.list.d/game.list && sed -i '1s/^/#/' /data/data/com.termux/files/usr/etc/apt/sources.list.d/science.list
 ```
 
-And then.. you can update the packages :-
-```bash
-pkg up -y
-```
-If it stuck just press enter-enter !!
+And now.. you can update the packages !!
 
 ## Usage
-
-* `Termux`
+<h1 align="center">Termux
+</h1>
 Update the packages
 ```bash
 pkg up -y
