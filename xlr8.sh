@@ -21,9 +21,6 @@ CYAN="$(printf '\e[36m')"
 WHITE="$(printf '\e[37m')"
 BLACK="$(printf '\e[30m')"
 
-apt install espeak -y
-apt install pv -y
-apt install wget -y
 clear
 just() {
 clear
@@ -106,7 +103,6 @@ fi
 
 updatee() {
 clear
-apt install git -y
 echo -e "\e[92m "
 clear
 echo ""
@@ -320,7 +316,6 @@ fi
 
 menux() {
 clear
-apt install curl
 clear
 banner
 sleep 1
