@@ -14,6 +14,7 @@ _Don't use this to take revenge_<br />
 * `Unlimited Usage !`
 * `Cross Platform`
 * `Supports newest Android also`
+* `No balance will be deducted to send SMS/calls`
 * `Working Apis`
 * `No missing SMS issues, all messages will be sent.`
 * `Working with all Operators/Carriers`
@@ -65,7 +66,31 @@ Clone the repository
 ```bash
 git clone https://github.com/anubhavanonymous/XLR8_BOMBER
 ```
-Go to the Xlr8 Directory
+Go to the Xlr8 directory
+```bash
+cd XLR8_BOMBER
+```
+Run the script
+```bash
+bash xlr8.sh
+```
+
+<h1 align="center">Kali linux/Parrot Sec OS
+</h1>
+
+Update the packages
+```bash
+apt update -y && apt upgrade -y
+```
+Install requirements 
+```bash
+apt-get install -y git curl wget pv espeak
+```
+Clone the repository
+```bash
+git clone https://github.com/anubhavanonymous/XLR8_BOMBER
+```
+Go to the Xlr8 directory
 ```bash
 cd XLR8_BOMBER
 ```
