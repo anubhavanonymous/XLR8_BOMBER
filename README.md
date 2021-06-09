@@ -53,7 +53,17 @@ pkg up -y
 If it stuck just press enter-enter !!
 
 ## Usage
-Clone it by
+
+* `Termux`
+Update the packages
+```bash
+pkg up -y
+```
+Install requirements 
+```bash
+pkg install -y git curl wget pv espeak
+```
+Clone the repository
 ```bash
 git clone https://github.com/anubhavanonymous/XLR8_BOMBER
 ```
@@ -61,7 +71,7 @@ Go to the Xlr8 Directory
 ```bash
 cd XLR8_BOMBER
 ```
-Just Run it
+Run the script
 ```bash
 bash xlr8.sh
 ```
