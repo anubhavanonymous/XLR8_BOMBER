@@ -51,8 +51,8 @@ sed -i '1s/^/#/' /data/data/com.termux/files/usr/etc/apt/sources.list.d/game.lis
 And now.. you can update the packages !!
 
 ## Usage
-<h1 align="center">Termux
-</h1>
+<h2 align="center">Termux
+</h2>
 
 Update the packages
 ```bash
