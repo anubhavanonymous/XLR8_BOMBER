@@ -52,6 +52,7 @@ And now.. you can update the packages !!
 ## Usage
 <h1 align="center">Termux
 </h1>
+
 Update the packages
 ```bash
 pkg up -y
