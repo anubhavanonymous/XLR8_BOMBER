@@ -102,7 +102,7 @@ bash xlr8.sh
 * `2.1`
 
 ## Features
-* `Sms and Call Bombing`
+* `Sms,Call & Whatsapp Bombing`
 
 * `Send anonymous msg`
 
