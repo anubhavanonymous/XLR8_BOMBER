@@ -75,8 +75,8 @@ Run the script
 bash xlr8.sh
 ```
 
-<h1 align="center">Kali linux/Parrot OS
-</h1>
+<h2 align="center">Kali linux/Parrot OS
+</h2>
 
 Update the packages
 ```bash
