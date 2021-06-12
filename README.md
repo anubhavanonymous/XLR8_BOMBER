@@ -1,6 +1,6 @@
 <img title="XLR8" src="https://img.shields.io/badge/CODENAME%20-XLR8-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> <img title="XLR8" src="https://img.shields.io/badge/VERSION%20-2.1-SCRIPT?colorA=grey&colorB=green&style=for-the-badge">
 
-<h1 align="center">XLR8 BOMBER 2.1
+<h1 align="center">XLR8 BOMBER
 <img src="logo.jpg"><br>
 </h1>
 
