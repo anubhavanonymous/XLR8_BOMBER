@@ -55,12 +55,12 @@ And now.. you can update the packages !!
 
 Update the packages
 
-*`Termux`
+* `Termux`
 
 ```bash
 pkg up -y
 ```
-* `Kali Linux/Parrot OS|
+* `Kali Linux/Parrot OS`
 
 ```bash
 apt update -y && apt upgrade -y
