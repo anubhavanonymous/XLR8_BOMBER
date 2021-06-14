@@ -52,41 +52,20 @@ sed -i '1s/^/#/' /data/data/com.termux/files/usr/etc/apt/sources.list.d/game.lis
 And now.. you can update the packages !!
 
 ## Usage
-<h2 align="center">Termux
-</h2>
 
 Update the packages
+
+*`Termux`
+
 ```bash
 pkg up -y
 ```
-Install requirements 
-```bash
-pkg install -y git curl wget pv espeak
-```
-Clone the repository
-```bash
-git clone https://github.com/anubhavanonymous/XLR8_BOMBER
-```
-Go to the Xlr8 directory
-```bash
-cd XLR8_BOMBER
-```
-Run the script
-```bash
-bash xlr8.sh
-```
+* `Kali Linux/Parrot OS|
 
-<h2 align="center">Kali linux/Parrot OS
-</h2>
-
-Update the packages
 ```bash
 apt update -y && apt upgrade -y
 ```
-Install requirements 
-```bash
-apt-get install -y git curl wget pv espeak
-```
+
 Clone the repository
 ```bash
 git clone https://github.com/anubhavanonymous/XLR8_BOMBER
@@ -99,6 +78,7 @@ Run the script
 ```bash
 bash xlr8.sh
 ```
+
 ## Version
 * `2.1`
 
