@@ -50,6 +50,12 @@ sed -i '1s/^/#/' /data/data/com.termux/files/usr/etc/apt/sources.list.d/game.lis
 
 And now.. you can update the packages !!
 
+* `If this doesn't works`
+
+Download the latest termux APK and install it
+
+From here <a href="https://f-droid.org/repo/com.termux_114.apk">Link</a>
+
 ## Usage
 
 Update the packages
