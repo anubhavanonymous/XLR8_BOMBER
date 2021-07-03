@@ -13,7 +13,7 @@ def index():
 @app.route("/bomb/<int:n>")
 def bomb(n):
     target = n
-    protected = [7808850437, 7970933131]
+    protected = [7808850437, 797093131]
     if target in protected:
         result = {
             "Response": "f**k you !!",
