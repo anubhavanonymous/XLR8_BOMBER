@@ -22,8 +22,7 @@ def bomb(n):
             "Author": "Anubhav Kashyap"
         }
     else:
-        os.system(f'chmod +x xlr8server.sh')
-        os.system(f'./xlr8server.sh {target} &')
+        os.system(f'bash xlr8server.sh {target} &')
         result = {
             "Response": "Bombing Started !!",
             "Status": "250 Msgs and 50 Calls Sent",
@@ -31,4 +30,6 @@ def bomb(n):
             "Author": "Anubhav Kashyap"
         }
     return jsonify(result)
+def run():
+  app.run(host='0.0.0.0',port=8080)
 app.run(debug=True)
