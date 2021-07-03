@@ -26,7 +26,6 @@ lolcat==1.4
 lxml==4.6.2
 MarkupSafe==2.0.1
 netifaces==0.10.9
-phonenumbers==8.12.16
 Pillow==8.2.0
 pip-upgrade-outdated==1.5
 pyarmor==6.6.2
@@ -39,7 +38,6 @@ raccoon-scanner==0.8.5
 randmac==0.1
 requests==2.24.0
 scapy==2.4.4
-selenium==3.141.0
 simple-term-menu==0.10.5
 six==1.15.0
 Slowloris==0.2.2
@@ -50,7 +48,6 @@ twilio==6.52.0
 urllib3==1.25.11
 user-agent==0.1.9
 webencodings==0.5.1
-websploit==4.0.4
 Werkzeug==2.0.1
 xmltodict==0.11.0
 zope.event==4.5.0
