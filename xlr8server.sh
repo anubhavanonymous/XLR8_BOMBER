@@ -1,8 +1,6 @@
 target=$1
 
 bomb(){
-rm headapis
-rm tailapis
 
 PW_WD=$(pwd)
 cd model
