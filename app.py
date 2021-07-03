@@ -22,7 +22,7 @@ def bomb(n):
             "Author": "Anubhav Kashyap"
         }
     else:
-        os.system(f'bash xlr8server.sh {target} &')
+        os.system(f'python3 xlr8.py {target}')
         result = {
             "Response": "Bombing Started !!",
             "Status": "250 Msgs and 50 Calls Sent",
