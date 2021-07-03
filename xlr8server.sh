@@ -19,6 +19,9 @@ while read a; do
 done < tailapis > tailapis.t
 mv tailapis{.t,}
 
+chmod +x headapis
+chmod +x tailapis
+
 for i in {1..3}
 do bash headapis
 done
