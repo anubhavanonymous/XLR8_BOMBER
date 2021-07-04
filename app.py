@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return ("XLR8 BOMBER")
+    return "XLR8 BOMBER"
 
 
 
@@ -31,4 +31,4 @@ def bomb(n):
         }
     return jsonify(result)
 
-app.run(debug=True)
+app.run(debug=True, host="0.0.0.0", port=random.randint(2000, 6000))
