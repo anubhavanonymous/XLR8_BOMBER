@@ -54,7 +54,7 @@ And now.. you can update the packages !!
 
 Download the latest termux APK and install it
 
-From here <a href="https://f-droid.org/repo/com.termux_114.apk">Link</a>
+From here <a href="https://f-droid.org/repo/com.termux_117.apk">Link</a>
 
 ## Usage
 
