@@ -104,5 +104,5 @@ Apache 2.0 © Anubhav Kashyap
 ## Telegram Channel
 * `Join the Official Telegram channel of XLR8`
 * `for further updates and queries !`
-<br>
-Join🔥 <a href="https://t.me/xlr8bomber">Link</a>
+
+* `<a href="https://t.me/xlr8bomber">Join🤙🏻</a>`
