@@ -100,3 +100,9 @@ Apache 2.0 © Anubhav Kashyap
 <img width="48%" src="screenshots/IMG_20210530_165509.jpg"/>
 <img width="48%" src="screenshots/IMG_20210530_165506.jpg"/>
 </p>
+
+## Telegram Channel
+* `Join the Official Telegram channel of XLR8`
+* `for further updates and queries !`
+<br>
+Join🔥 <a href="https://t.me/xlr8bomber">Link</a>
