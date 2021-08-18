@@ -236,7 +236,7 @@ sleep 1
 echo ""
 echo ""
 echo ""
-echo -e "   \e[92m[\e[91m~\e[92m]\e[93m It will automatically stop after 2 min\e[93m"
+echo -e "   \e[92m[\e[91m~\e[92m]\e[93m It will automatically stop after 5 min\e[93m"
 echo ""
 echo -e "   \e[92m[\e[91m~\e[92m]\e[93m After sending 300 msgs and 60 calls !!\e[93m"
 echo ""
