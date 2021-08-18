@@ -1,5 +1,0 @@
-#!bin/bash
-curl -X POST https://textbelt.com/text \
-       --data-urlencode phone='91₹axx' \
-       --data-urlencode message='€amsg' \
-       -d key=textbelt -s
