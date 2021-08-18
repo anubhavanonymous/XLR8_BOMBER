@@ -1,4 +1,4 @@
-<h1 align="center">XLR8 BOMBER 2.1
+<h1 align="center">XLR8 BOMBER 3.0
 <img src="logo.jpg"><br>
 </h1>
 
@@ -32,27 +32,17 @@ _Don't use this to take revenge_<br />
 </ul>
 
 ## Termux Issue:
-* `There is a problem occuring in termux`
-* `while updating the packages`
-* `The official repositories of termux are down`
-* `due to high traffic!`
+* `Termux App is no longer getting`
+* `updates on playstore`
+* `due to recently introduced Google Play policy `
 <br>
 
 DON'T WORRY
 * `We have a solution for that !`
 <br>
 
-Just paste the command below in termux ♡
 
-```bash
-sed -i '1s/^/#/' /data/data/com.termux/files/usr/etc/apt/sources.list.d/game.list && sed -i '1s/^/#/' /data/data/com.termux/files/usr/etc/apt/sources.list.d/science.list
-```
-
-And now.. you can update the packages !!
-
-* `If this doesn't works`
-
-Download the latest termux APK and install it
+You can download the latest termux app and install it
 
 From here <a href="https://f-droid.org/repo/com.termux_117.apk">Link</a>
 
