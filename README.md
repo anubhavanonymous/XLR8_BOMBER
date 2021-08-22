@@ -75,7 +75,7 @@ bash xlr8.sh
 ```
 
 ## Version
-* `2.1`
+* `3.0`
 
 ## Features
 * `Sms,Call & Whatsapp Bombing`
