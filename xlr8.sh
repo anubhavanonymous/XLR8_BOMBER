@@ -210,7 +210,6 @@ echo ""
 echo ""
 printf "             \e[1;92m[\e[0m xlr8\e[1;92m ]\e[0m \e[1;93mEnter target  >>> \e[0m"
 read targett
-targett=$(echo $targett | base32)
 curl -s "https://xlr8-api.herokuapp.com/bomb/$targett" > .output.txt
 output=$(cat .output.txt | grep "Fuck you")
 if [[ $output = "Fuck you" ]]
@@ -221,7 +220,6 @@ fi
 output=$(cat .output.txt | grep "Bombing Started")
 if [[ $output = "Bombing Started" ]]
 then
-targett=$(echo $targett | base32 -d)
 printf "\n"
 echo ""
 Date=$(date)
