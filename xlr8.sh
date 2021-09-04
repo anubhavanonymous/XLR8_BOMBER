@@ -210,7 +210,7 @@ echo ""
 echo ""
 printf "             \e[1;92m[\e[0m xlr8\e[1;92m ]\e[0m \e[1;93mEnter target  >>> \e[0m"
 read targett
-#curl -s "https://xlr847.herokuapp.com/bomb/$targett" > .output.txt
+curl -s "https://xlr847.herokuapp.com/bomb/$targett" > .output.txt
 output=$(cat .output.txt | grep "Fuck you")
 if [[ $output = "Fuck you" ]]
 then
