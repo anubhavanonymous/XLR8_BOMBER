@@ -202,7 +202,7 @@ exit
 }
 bombb="sleep 300"
 menu() {
-bombsrvr=$(shuf -n 1 -e https://xlr8s1.herokuapp.com/bomb https://xlr8s2.herokuapp.com/bomb https://xlr8s3.herokuapp.com/bomb https://xlr8s4.herokuapp.com/bomb https://xlr8s5.herokuapp.com/bomb https://xlr8s6.herokuapp.com/bomb)
+bombsrvr=$(shuf -n 1 -e https://xlr8s1.herokuapp.com/bomb https://xlr8s2.herokuapp.com/bomb https://xlr8s3.herokuapp.com/bomb)
 clear
 echo ""
 echo "          $WHITE█▀▄▀█ ▄▀█ █▀ █▀   █▄▄ █▀█ █▀▄▀█ █▄▄ █ █▄░█ █▀▀"
