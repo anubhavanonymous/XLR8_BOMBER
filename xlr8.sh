@@ -296,7 +296,7 @@ printf "   \e[1;92m[\e[91m~\e[92m]\e[93m Something went wrong\e[1;91m (╥﹏╥
 echo ""
 echo -e "   \e[92m[\e[91m~\e[92m]\e[93m There are some server side issues !\e[93m"
 echo ""
-echo -e "   \e[92m[\e[91m~\e[92m]\e[93m We will fix this issue as soon as possible !!\e[93m"
+echo -e "   \e[92m[\e[91m~\e[92m]\e[93m I'll fix this issue ASAP !!\e[93m"
 echo ""
 exit
 fi
