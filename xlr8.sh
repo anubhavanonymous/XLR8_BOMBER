@@ -202,7 +202,7 @@ exit
 }
 bombb="sleep 300"
 menu() {
-bombsrvr=$(shuf -n 1 -e https://xlr81.herokuapp.com/bomb https://xlr82.herokuapp.com/bomb https://xlr83.herokuapp.com/bomb https://xlr84.herokuapp.com/bomb https://xlr85.herokuapp.com/bomb https://xlr86.herokuapp.com/bomb)
+bombsrvr=$(shuf -n 1 -e https://xlr71.herokuapp.com/bomb https://xlr72.herokuapp.com/bomb https://xlr73.herokuapp.com/bomb https://xlr74.herokuapp.com/bomb https://xlr75.herokuapp.com/bomb https://xlr76.herokuapp.com/bomb)
 clear
 echo ""
 echo "          $WHITE█▀▄▀█ ▄▀█ █▀ █▀   █▄▄ █▀█ █▀▄▀█ █▄▄ █ █▄░█ █▀▀"
@@ -228,7 +228,7 @@ echo ""
 echo ""
 printf "   \e[1;92m[\e[91m~\e[92m]\e[93m Bomb Limit Exceeded\e[1;91m ( ͡❛ ︹ ͡❛)\e[93m\n"
 echo ""
-echo -e "   \e[92m[\e[91m~\e[92m]\e[93m You can only bomb a number 5 times a day !!\e[93m"
+echo -e "   \e[92m[\e[91m~\e[92m]\e[93m You can only bomb a number 6 times a day !!\e[93m"
 echo ""
 exit
 fi
