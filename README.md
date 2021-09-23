@@ -3,7 +3,7 @@
 </h1>
 
 * `💣 📱 💀`<br />
-* `A Superfast SMS bomber for Linux And Termux !`
+* `A Superfast SMS & Call bomber for Linux And Termux !`
 
 ## Disclaimer
 *This tool is for educational purposes only !*
