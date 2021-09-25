@@ -102,7 +102,7 @@ Apache 2.0 © Anubhav Kashyap
 </p>
 
 ## Contact Us
-*`If you have any feedback or queries`
+* `If you have any feedback or queries`
 * `mail us at: anubhavkashyap@pm.me`
 
 ## Telegram Channel
