@@ -11,7 +11,7 @@ _Don't use this to take revenge_<br />
 *I will not be responsible for any misuse*
 
 ## About
-* `Unlimited Usage !`
+* `Unlimited Usage (you can only bomb a number 6 times a day) !`
 * `Cross Platform`
 * `Supports newest Android also`
 * `No balance will be deducted to send SMS/calls`
