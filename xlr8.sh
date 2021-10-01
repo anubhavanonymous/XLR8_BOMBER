@@ -200,7 +200,7 @@ eexec() {
 echo "Under construction"
 exit
 }
-bombb="sleep 300"
+bombb=$(sleep 300)
 menu() {
 bombsrvr=$(shuf -n 1 -e https://xlr71.herokuapp.com/bomb https://xlr72.herokuapp.com/bomb https://xlr73.herokuapp.com/bomb https://xlr74.herokuapp.com/bomb https://xlr75.herokuapp.com/bomb https://xlr76.herokuapp.com/bomb)
 clear
@@ -282,7 +282,7 @@ echo ""
 echo -e "   \e[92m[\e[91m~\e[92m]\e[93m After sending 300 msgs and 60 calls !!\e[93m"
 echo ""
 echo ""
-find . -type f -exec sh -c "eval $bombb" \;
+exec sh -c "eval $bombb"
 printf "          \e[0m\e[41m♡ 300 msgs and 60 calls Bombed Successfully ♡\e[0m\n"
 echo ""
 exit
