@@ -25,7 +25,6 @@ _Don't use this to take revenge_<br />
   <li>Termux</li>
   <li>Ubuntu</li>
   <li>Parrot Sec OS</li>
-  <li>Mac OS</li>
   <li>Kali nethunter</li>
   <li>Alpine linux</li>
   
