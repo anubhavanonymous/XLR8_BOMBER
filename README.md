@@ -1,4 +1,4 @@
-<h1 align="center">XLR8 BOMBER
+<h1 align="center">XLR8 BOMBER 3.0
 <img src="logo.jpg"><br>
 </h1>
 
@@ -31,8 +31,7 @@ _Don't use this to take revenge_<br />
 </ul>
 
 ## Termux Issue:
-* `Termux App is no longer getting`
-* `updates on playstore`
+* `Termux App is no longer recieving updates on playstore`
 * `due to recently introduced Google Play policy `
 <br>
 
@@ -44,6 +43,8 @@ DON'T WORRY
 You can download the latest termux app and install it
 
 From here <a href="https://f-droid.org/repo/com.termux_117.apk">Link</a>
+
+and it's not a virus haha !
 
 ## Usage
 
