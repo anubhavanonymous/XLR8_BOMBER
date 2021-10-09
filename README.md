@@ -44,8 +44,6 @@ You can download the latest termux app and install it
 
 From here <a href="https://f-droid.org/repo/com.termux_117.apk">Link</a>
 
-and it's not a virus haha !
-
 ## Usage
 
 Update the packages
