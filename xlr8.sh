@@ -24,6 +24,7 @@ BLACK="$(printf '\e[30m')"
 apt-get install -y git curl wget pv espeak
 
 clear
+clear
 just() {
 clear
 echo ""
