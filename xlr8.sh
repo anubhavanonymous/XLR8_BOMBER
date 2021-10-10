@@ -347,7 +347,6 @@ fi
 
 menux() {
 clear
-clear
 banner
 sleep 1
 DATE=$(date)
