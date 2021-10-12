@@ -1,4 +1,4 @@
-<h1 align="center">XLR8 BOMBER 3.0
+<h1 align="center">XLR8 BOMBER 3.0 CI alpha
 <img src="logo.jpg"><br>
 </h1>
 
@@ -59,6 +59,10 @@ pkg up -y
 apt update -y && apt upgrade -y
 ```
 
+Install git and python
+```bash
+apt-get install git python3 -y
+```
 Clone the repository
 ```bash
 git clone https://github.com/anubhavanonymous/XLR8_BOMBER
@@ -69,11 +73,11 @@ cd XLR8_BOMBER
 ```
 Run the script
 ```bash
-bash xlr8.sh
+python3 xlr8.py
 ```
 
 ## Version
-* `3.0`
+* `3.0 CI aplha`
 
 ## Features
 * `Sms,Call & Whatsapp Bombing`
