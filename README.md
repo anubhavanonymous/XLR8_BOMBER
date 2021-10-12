@@ -1,4 +1,4 @@
-<h1 align="center">XLR8 BOMBER 3.0 CI alpha
+<h1 align="center">XLR8 BOMBER 3.0
 <img src="logo.jpg"><br>
 </h1>
 
