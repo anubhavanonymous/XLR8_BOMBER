@@ -61,7 +61,7 @@ apt update -y && apt upgrade -y
 
 Install git and python
 ```bash
-apt-get install git python3 -y
+apt-get install git wget python3 -y
 ```
 Clone the repository
 ```bash
