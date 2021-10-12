@@ -59,7 +59,7 @@ pkg up -y
 apt update -y && apt upgrade -y
 ```
 
-Install git and python
+Install some dependencies
 ```bash
 apt-get install git wget python3 -y
 ```
