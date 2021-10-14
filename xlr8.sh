@@ -201,7 +201,7 @@ echo "Under construction"
 exit
 }
 menu() {
-bombsrvr=$(shuf -n 1 -e https://xlr71.herokuapp.com/bomb https://xlr72.herokuapp.com/bomb https://xlr73.herokuapp.com/bomb https://xlr74.herokuapp.com/bomb https://xlr75.herokuapp.com/bomb https://xlr76.herokuapp.com/bomb)
+bombsrvr=$(shuf -n 1 -e https://xlr81.herokuapp.com/bomb https://xlr82.herokuapp.com/bomb https://xlr83.herokuapp.com/bomb https://xlr84.herokuapp.com/bomb https://xlr85.herokuapp.com/bomb https://xlr86.herokuapp.com/bomb)
 clear
 echo ""
 echo "          $WHITE█▀▄▀█ ▄▀█ █▀ █▀   █▄▄ █▀█ █▀▄▀█ █▄▄ █ █▄░█ █▀▀"
