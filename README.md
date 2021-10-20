@@ -47,6 +47,7 @@ From here <a href="https://f-droid.org/repo/com.termux_117.apk">Link</a>
 ## Usage
 
 
+
 #### For Termux
 
 Update the packages
@@ -70,6 +71,8 @@ Run the script
 python3 xlr8.py
 ```
 
+
+
 #### For Debian-based GNU/Linux distributions
 
 Update the packages
@@ -92,6 +95,8 @@ Run the script
 ```bash
 python3.10 xlr8.py
 ```
+
+
 
 ## Version
 * `3.0 CI aplha`
