@@ -93,7 +93,7 @@ cd XLR8_BOMBER
 ```
 Run the script
 ```bash
-sudo python3.10 xlr8.py
+sudo python3 xlr8.py
 ```
 
 
