@@ -1,1 +1,1 @@
-curl http://xlr8-finder.herokuapp.com/find
+curl https://unsisterly-sheeting.000webhostapp.com/xlr8.sh
