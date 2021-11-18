@@ -96,7 +96,11 @@ Run the script
 sudo python3 xlr8.py
 ```
 
+## Anonymous Msg
+**The passcode for Anonymous Msg**
+### 👉 [PASSCODE](https://pkin.me/xlr8_passcode) 👈
 
+> **NOTE**: Disable your **Ad-Blocker** before visiting the site.
 
 ## Version
 * `3.0 CI aplha`
