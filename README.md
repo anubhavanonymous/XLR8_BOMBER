@@ -96,7 +96,9 @@ Run the script
 sudo python3 xlr8.py
 ```
 
+## Anonymous Msg Passcode
 
+You'll get that in the telegram channel !
 
 ## Version
 * `3.0 CI aplha`
