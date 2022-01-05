@@ -101,7 +101,7 @@ sudo python3 xlr8.py
 You'll get that in the telegram channel !
 
 ## Version
-* `3.0 CI aplha`
+* `3.1.8 CI aplha`
 
 ## Features
 * `Sms,Call & Whatsapp Bombing`
@@ -132,7 +132,7 @@ Apache 2.0 © Anubhav Kashyap
 * `mail us at: anubhavkashyap@pm.me`
 
 ## Telegram Channel
-* `Join the Official Telegram channel of XLR8`
+
 * `All updates of Xlr8 will be posted here !`
 
 <a href="https://t.me/xlr8bomber">
