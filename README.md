@@ -77,29 +77,6 @@ python xlr8.py
 
 Update the packages
 ```bash
-apk update && apk upgrade -y
-```
-Install some dependencies
-```bash
-apk install git wget python3 -y
-```
-Clone the repository
-```bash
-git clone https://github.com/anubhavanonymous/XLR8_BOMBER
-```
-Go to the Xlr8 directory
-```bash
-cd XLR8_BOMBER
-```
-Run the script
-```bash
-python3 xlr8.py
-```
-
-#### For Debian-based GNU/Linux distributions
-
-Update the packages
-```bash
 apt-get update; apt-get upgrade -y
 ```
 Install some dependencies
@@ -117,6 +94,29 @@ cd XLR8_BOMBER
 Run the script
 ```bash
 sudo python3 xlr8.py
+```
+
+#### For Alpine linux
+
+Update the packages
+```bash
+apk update && apk upgrade -y
+```
+Install some dependencies
+```bash
+apk install git wget python3 -y
+```
+Clone the repository
+```bash
+git clone https://github.com/anubhavanonymous/XLR8_BOMBER
+```
+Go to the Xlr8 directory
+```bash
+cd XLR8_BOMBER
+```
+Run the script
+```bash
+python3 xlr8.py
 ```
 
 ## Anonymous Msg Passcode
