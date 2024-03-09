@@ -2,7 +2,7 @@
 <img src="logo.jpg"><br>
 </h1>
 
-* `💣 📱 💀`<br />
+* `💣 +8801813398103 💀`<br />
 * `A Superfast SMS & Call bomber for Linux And Termux !`
 
 ## Disclaimer
