@@ -1,5 +1,8 @@
 <h2 align="center">Project Closed
-<h3 align="center">It will be open sourced soon for education purposes!
+<h3 align="center">It will be open sourced soon !
+<br />
+<br />
+<br />
   
 <h1 align="center">XLR8 BOMBER 3.0
 <img src="logo.jpg"><br>
